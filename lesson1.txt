@@ -1,0 +1,4 @@
+Initialize Project,Add Top Navbar,Add First Row,Finish Bottom Row,Add Dark Theme,Update Navbar
+ Add Third Row,Add Footer,Conbination,
+ Global Information Tracker (git)
+ 
